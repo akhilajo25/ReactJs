@@ -1,5 +1,3 @@
-lea
-
 // <!-- Javascript style of implementation -->
 // const heading = document.createElement("h1");
 // heading.innerHTML = "Hello, World from Js";
